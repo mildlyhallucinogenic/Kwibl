@@ -10,3 +10,4 @@ An audio based social networking platform.
  - 	Users can follow their favourite creators 
  - 	People can post podcast clips etc. and tag them with #hashstags so that it makes them easy to share
  - 	App will be able to generate revenue by running audio ads like on Spotify and a portion of that will be shared with the creators like on Twitter, YouTube etc.
+  - Records will have a time limit of a few minutes to prevent extremely long content being posted
