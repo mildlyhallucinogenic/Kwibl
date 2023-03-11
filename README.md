@@ -2,15 +2,11 @@
 
 An audio based social network.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+ - 	Audio based social network
+ - 	Twitter like profiles 
+ - 	Audio files/Recordings that will be played instantly when you open the app on the home page. Very similar to viewing tweets/posts 
+ - 	Comments on a post will be audio record as well. Users will be able to record their comment like a voice message on WhatsApp.
+ - 	Audio Posts/Records will play in the background 
+ - 	Users can follow their favourite creators 
+ - 	People can post podcast clips etc. and tag them with #hashstags so that it makes them easy to share
+ - 	App will be able to generate revenue by running audio ads like on Spotify and a portion of that will be shared with the creators like on Twitter, YouTube etc.
