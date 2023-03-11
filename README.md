@@ -1,6 +1,6 @@
 # Diver
 
-An audio based social network.
+An audio based social networking platform.
 
  - 	Audio based social network
  - 	Twitter like profiles 
