@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.diver">
+    package="com.example.kwibl">
    <application
-        android:label="diver"
+        android:label="kwibl"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity

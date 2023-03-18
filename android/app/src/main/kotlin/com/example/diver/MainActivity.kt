@@ -1,4 +1,4 @@
-package com.example.diver
+package com.example.kwibl
 
 import io.flutter.embedding.android.FlutterActivity
 

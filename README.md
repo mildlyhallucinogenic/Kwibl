@@ -1,4 +1,4 @@
-# Diver
+# Kwibl
 
 An audio based social networking platform.
 
